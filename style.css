@@ -16,7 +16,7 @@ text-decoration: none;
 }
 
 #fundo{
-background-image: linear-gradient(45deg,#3FA6A6,#256269,);
+background-image: linear-gradient(45deg,#3FA6A6,#256269);
 background-attachment: fixed
 }
 #conteudo{
